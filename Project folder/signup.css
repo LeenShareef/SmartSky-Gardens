@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("../images/1111.png");
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.7);
+    margin: 0;
+    text-align: center;
+}
+
+form {
+    background-color: white;
+    border-radius: 8px;
+    width: 500px;
+    height: 200px;
+    margin: 20px auto;
+}
+
+p {
+    font-size: 30px;
+    margin-top: 50px;;
+}
+
+button {
+    font-size: 18px;
+    background-color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 12px 24px;
+    margin: 10px auto;
+    display: block;
+}
+fieldset{
+    background-color: white;
+    border-radius: 5px;
+    padding: 12px 24px;
+    margin: 10px auto;
+    display: block;
+}
